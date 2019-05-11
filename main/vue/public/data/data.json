@@ -1,0 +1,34 @@
+[
+    {
+    "goodsid":"1",
+    "title":"越南进口火龙果（2粒）【直降2.80元】",
+    "details":"外皮红艳张扬，果肉绵软白嫩，汁液丰富，富含维生素C，丰富的水溶性膳食纤维，前者美白皮肤，后者有助减肥，降血糖，润肠，预防肠癌，美容瘦身。",
+    "indeximg":"../assets/images/j-c03.jpg",
+    "peoplenumber":"3",
+    "oldprice":"￥16.80",
+    "groupbuying":"¥14.00",
+    "img1":"../assets/images/j-d01.jpg",
+    "img2":"../assets/images/j-d02.jpg",
+    "sales":"948",
+    "png1":"../assets/images/d1.jpg",
+    "png2":"../assets/images/d2.jpg",
+    "png3":"../assets/images/d3.jpg",
+   " png4":"../assets/images/d4.jpg"
+    },
+    {
+        "goodsid":"2",
+        "title":"墨西哥牛油果【巨无霸】",
+        "details":"牛油果直接食用口感干涩，美白皮肤，但是牛油果富含多种维生素与不饱和脂肪酸，可以说是营养丰富，降血糖，功效卓越。",
+        "indeximg":"../assets/images/j-c03.jpg",
+        "peoplenumber":"3",
+        "oldprice":"￥69.80",
+        "groupbuying":"¥55.00",
+        "img1":"../assets/images/m3.jpg",
+        "img2":"../assets/images/j-c03.jpg",
+        "sales":"948",
+        "png1":"../assets/images/myorder1.jpg",
+        "png2":"../assets/images/d2.jpg",
+        "png3":"../assets/images/d3.jpg",
+       " png4":"../assets/images/d4.jpg"
+        }
+]
